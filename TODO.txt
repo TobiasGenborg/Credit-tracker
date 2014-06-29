@@ -1,0 +1,6 @@
+This file is a combination of a backlog of features to be added in the future and a list of known issues with the workbook.
+
+1. Features to be added later
+
+2. Know issues and bugs 
+	2.1. [Issue] If the user removes courses in her study plan manually the data in the summary and course table will be inconsistent.
