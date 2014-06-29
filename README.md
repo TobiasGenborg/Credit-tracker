@@ -1,2 +1,2 @@
-Credit-tracker
+Credit-tracker for LITH
 ==============
