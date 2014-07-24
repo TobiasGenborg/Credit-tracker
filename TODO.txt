@@ -1,6 +1,10 @@
-This file is a combination of a backlog of features to be added in the future and a list of known issues with the workbook.
+This file is a combination of a product backlog and a list of known issues with the workbook. Note that the items are being implemented/solved in a slow or non-existent pace, mostly depending on my current interest in the project.
 
-1. Features to be added later
+0. Last updated 2014-07-24 (version 2.0)
 
-2. Know issues and bugs 
-	2.1. [Issue] If the user removes courses in her study plan manually the data in the summary and course table will be inconsistent.
+1. Features that would be nice ([Feature]/[Implemented])
+	1.1. [Feature] Right now all the data (courses, programs etc) is stored locally in every users machine, resulting in lots of unneccessary data. A central database, from which the users fetches the data they need, would make more sense and would be easier to update and maintain.
+
+2. Know issues and bugs ([Issue]/[Bug]/[Solved])
+	2.1. [Solved] If the user removes courses in her study plan manually the data in the summary and course table will be inconsistent.
+	
