@@ -8,3 +8,4 @@ Arbetsboken är skriven av Tobias Genborg under 2014. Det hela började med att 
 
 Description in English:
 --------------
+The purpose of this Excel 2013 workbook is to make it easier for students at Linköpings University to elect courses and plan their future studies. Using the workbook the students can compare their progress with the graduation requirements, check for potential schedule conflicts for future semesters. The workbook isn't available in English.
